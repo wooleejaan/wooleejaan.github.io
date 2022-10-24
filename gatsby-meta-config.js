@@ -2,7 +2,7 @@ module.exports = {
   title: `woolee의 기록 보관소`,
   description: `Blog posted about ...`,
   author: `woolee`,
-  introduction: `안녕하세요, 이용우입니다.`,
+  introduction: `안녕하세요, 다시 해봐요.`,
   siteUrl: `https://github.com/wooleejaan`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
